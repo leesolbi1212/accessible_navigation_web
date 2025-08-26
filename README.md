@@ -7,7 +7,7 @@
   **모두가 자유롭게 이동할 수 있는 도시를 위한 배리어프리 내비게이션**
   
   [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
-  [![React](declarations://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
+ [![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
   [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
   [![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
   
@@ -36,7 +36,7 @@
 - 커뮤니티 기반의 실시간 접근성 정보 업데이트 시스템 구축
 
 ### 개발 기간
-- **2024년 XX월 XX일 ~ 2024년 XX월 XX일** (4주)
+- **2024년 06월 09일 ~ 2024년 07월 03일** (4주)
 
 ## 🚀 주요 기능
 
@@ -292,34 +292,15 @@ Accessible_navigation/
 ### 팀명: 개발세발 (개발자까지 세 걸음 남았다)
 
 ### 나의 역할
-- **[이름/역할 기입]**
-  - 백엔드 총괄
-  - 데이터베이스 설계 및 관리
-  - 전체 프로젝트 총괄
-  - 메인 로직 기획 및 설계
+- 백엔드 총괄
+- 데이터베이스 설계 및 관리
+- 전체 프로젝트 총괄
+- 메인 로직 기획 및 설계
 
 ### 개발 방법론
 - Agile/Scrum 방법론 적용
-- 주 2회 스프린트 미팅
+- 주 5회 스프린트 미팅
 - GitHub를 통한 버전 관리 및 코드 리뷰
-
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 있습니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
-
-## 🤝 기여 방법
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📞 문의
-
-프로젝트에 대한 문의사항이 있으시면 아래로 연락 주세요:
-- Email: [이메일 주소]
-- GitHub: [GitHub 프로필]
 
 ---
 
