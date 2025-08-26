@@ -1,0 +1,51 @@
+# HATW - Accessible Navigation System Requirements
+# Backend Dependencies for Spring Boot Application
+# Generated from build.gradle configuration
+
+# Core Spring Boot Dependencies
+spring-boot-starter-web==3.5.3
+spring-boot-starter==3.5.3
+spring-boot-devtools==3.5.3
+spring-boot-starter-test==3.5.3
+
+# Database
+mysql-connector-java==8.0.33
+mybatis-spring-boot-starter==3.0.3
+
+# Security
+spring-boot-starter-security==3.5.3
+jjwt==0.9.1
+bcrypt==0.10.2
+
+# Utilities
+lombok==1.18.30
+gson==2.10.1
+
+# External API Integration
+nurigo-sdk==4.3.2  # SMS Service
+httpclient==4.5.14
+httpcore==4.4.16
+
+# Testing
+junit-jupiter==5.10.0
+mockito-core==5.5.0
+
+# Additional Dependencies
+javax.xml.bind:jaxb-api==2.3.1
+jakarta.servlet-api==6.0.0
+jakarta.validation-api==3.0.2
+
+# Build Tools
+gradle==8.5
+
+# Java Runtime
+openjdk==17
+
+# Frontend Dependencies (for reference)
+# These should be installed via npm in the front directory
+# react==19.1.0
+# vite==7.1.2
+# react-router-dom==7.6.2
+# axios==1.10.0
+# @vitejs/plugin-react==4.4.4
+# eslint==9.20.0
