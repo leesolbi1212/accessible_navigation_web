@@ -308,6 +308,6 @@ Accessible_navigation/
   
   **"모두가 자유롭게 이동할 수 있는 도시를 만들어갑니다"**
   
-  © 2024 HATW Team. All rights reserved.
+  © 2025 HATW Team. All rights reserved.
   
 </div>
